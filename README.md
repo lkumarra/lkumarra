@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A passionate SDET who loves to Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, Protractor, Postman, Restassured, Jenkins and Git. I believe in Keep learning new technologies, implementing them and improving day by day. I like to implement my skills to improve the things.
 
 ### Hobbies
-*Photography*
-*Framework Desigining*
-*Travelling*
+1. *Photography*
+2. *Framework Desigining*
+3. *Travelling*
 
