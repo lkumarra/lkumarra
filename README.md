@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Lavendra Kumar Rajput
 
 <!--
 **lkumarra/lkumarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+A passionate SDET who loves to Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, Protractor, Postman, Restassured, Jenkins and Git. I believe in Keep learning new technologies, implementing them and improving day by day. I like to implement my skills to improve the things.
+
+### Hobbies
+*Photography*
+*Framework Desigining*
+*Travelling*
+
