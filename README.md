@@ -23,7 +23,7 @@ I am a passionate SDET who loves to Automating Things and Developing Automation 
 3. *Travelling*
 
 ### Get in Touch
-Email : Lavendra.rajputc1@gmail.com
-Linkedin : linkedin.com/in/lavendra-kumar-rajput-112ab2106
+  Email : Lavendra.rajputc1@gmail.com
+  Linkedin : https://linkedin.com/in/lavendra-kumar-rajput-112ab2106
 
 [Portfolio](https://lkumarra.github.io)
