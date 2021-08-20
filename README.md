@@ -29,3 +29,5 @@ I am expert in framework development using protractor api.
 2. Linkedin : https://linkedin.com/in/lavendra-kumar-rajput-112ab2106
 
 [Portfolio](https://lkumarra.github.io)
+
+<img src="https://github-readme-stats.vercel.app/api?username=lkumarra&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF">
