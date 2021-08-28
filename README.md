@@ -31,3 +31,4 @@ I am expert in framework development using protractor api.
 [Portfolio](https://lkumarra.github.io)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lkumarra&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&hide=css,html">
