@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am a passionate SDET who loves to Automating Things and Developing Automation Frameworks. I have exposure to Different tools and Technologies such as Selenium, Protractor, Postman, Restassured, Jenkins and Git. I believe in Keep learning new technologies, implementing them and improving day by day. I like to implement my skills to improve the things.
+Hi, I'm Lavendra, a Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance. I specialize in building and implementing test automation frameworks using tools such as Selenium, Java, RestAssured, Cucumber, Protractor, and TestNG.
 
-I am expert in framework development using protractor api.
+I have a passion for software testing and a proven track record of creating robust test plans and executing them with precision to ensure that the software meets the highest quality standards. I am an expert in developing test cases, analyzing results, and reporting defects.
+
+I'm also skilled in creating test automation scripts to run functional, integration, and acceptance tests on web applications, RESTful APIs, and mobile applications. I have experience working in Agile environments and collaborating with developers to identify and resolve defects early in the development cycle.
+
+With a strong background in software development and testing, I have a deep understanding of the software development lifecycle and the importance of quality assurance in delivering a high-quality product. My ability to think creatively and problem-solve enables me to design and execute effective test automation strategies and deliver high-quality software products.
+
+In summary, I am a highly skilled SDET with expertise in Selenium, Java, RestAssured, Cucumber, Protractor, and TestNG. I'm passionate about software testing and delivering high-quality software products, and I'm committed to continuously improving my skills and knowledge to stay at the forefront of the industry.
+
 
 ### Hobbies
 1. *Photography*
