@@ -41,6 +41,14 @@ This repository showcases my work in various areas including:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ## 🎨 Hobbies
@@ -66,6 +74,18 @@ This repository showcases my work in various areas including:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lkumarra&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+## 📈 Total Contributions
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=lkumarra&include_all_commits=true&count_private=true&theme=radical" alt="Total Contributions" />
+</p>
+
+## 📂 Most Contributed Repository
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=YOUR_REPO_NAME&theme=radical" alt="Most Contributed Repo" />
 </p>
 
 ## 📈 Profile Views
