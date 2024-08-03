@@ -1,41 +1,49 @@
-### Hi there 👋 I am Lavendra Kumar Rajput
+# Lavendra Kumar Rajput's Portfolio
 
-<!--
-**lkumarra/lkumarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me
-Hi, I'm Lavendra, a Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance. I specialize in building and implementing test automation frameworks using tools such as Selenium, Java, RestAssured, Cucumber, Protractor, and TestNG.
+I specialize in:
+- **Test Automation Frameworks**: Selenium, Java, RestAssured, Cucumber, Protractor, TestNG
+- **Software Testing**: Functional, Integration, Acceptance tests on web applications, RESTful APIs, and mobile applications
+- **Agile Development**: Collaborating with developers to identify and resolve defects early in the development cycle
 
-I have a passion for software testing and a proven track record of creating robust test plans and executing them with precision to ensure that the software meets the highest quality standards. I am an expert in developing test cases, analyzing results, and reporting defects.
+## Projects
 
-I'm also skilled in creating test automation scripts to run functional, integration, and acceptance tests on web applications, RESTful APIs, and mobile applications. I have experience working in Agile environments and collaborating with developers to identify and resolve defects early in the development cycle.
+This repository showcases my work in various areas including:
+- **Automation Frameworks**: Sample projects using Selenium, RestAssured, and other tools.
+- **Test Scripts**: Demonstrations of automated test cases for web and mobile applications.
+- **Open Source Contributions**: Contributions to various open-source projects.
 
-With a strong background in software development and testing, I have a deep understanding of the software development lifecycle and the importance of quality assurance in delivering a high-quality product. My ability to think creatively and problem-solve enables me to design and execute effective test automation strategies and deliver high-quality software products.
+## Skills
 
-In summary, I am a highly skilled SDET with expertise in Selenium, Java, RestAssured, Cucumber, Protractor, and TestNG. I'm passionate about software testing and delivering high-quality software products, and I'm committed to continuously improving my skills and knowledge to stay at the forefront of the industry.
+- **Programming Languages**: Java, Python, JavaScript
+- **Tools & Technologies**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Docker
+- **Soft Skills**: Problem-solving, Team Collaboration, Agile Methodologies
 
+## Hobbies
 
-### Hobbies
-1. *Photography*
-2. *Framework Desigining*
-3. *Travelling*
+- Photography
+- Framework Designing
+- Traveling
 
-### Get in Touch
-1. Email : Lavendra.rajputc1@gmail.com
-2. Linkedin : https://linkedin.com/in/lavendra-kumar-rajput-112ab2106
+## Get in Touch
 
-[Portfolio](https://lkumarra.github.io)
+- **Email**: [Lavendra.rajputc1@gmail.com](mailto:Lavendra.rajputc1@gmail.com)
+- **LinkedIn**: [Lavendra Kumar Rajput](https://linkedin.com/in/lavendra-kumar-rajput-112ab2106)
+- **Portfolio**: [lkumarra.github.io](https://lkumarra.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api?username=lkumarra&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=FFFFFF">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&hide=css,html">
+## GitHub Stats
+
+![Lavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=compact&theme=radical)
+
+## Repository Overview
+
+This repository contains:
+- Sample projects and scripts showcasing my expertise
+- Contributions to open-source projects
+- Documentation and resources related to my work
+
+Feel free to explore and reach out if you have any questions or collaboration ideas!
