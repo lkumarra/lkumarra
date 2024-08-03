@@ -1,49 +1,57 @@
-# Lavendra Kumar Rajput's Portfolio
+# 🌟 Lavendra Kumar Rajput's Portfolio 🌟
 
 Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
+
+![Profile Banner](https://via.placeholder.com/1200x400.png?text=Lavendra+Kumar+Rajput)
 
 ## About Me
 
 I specialize in:
-- **Test Automation Frameworks**: Selenium, Java, RestAssured, Cucumber, Protractor, TestNG
-- **Software Testing**: Functional, Integration, Acceptance tests on web applications, RESTful APIs, and mobile applications
-- **Agile Development**: Collaborating with developers to identify and resolve defects early in the development cycle
+- 🧪 **Test Automation Frameworks**: Selenium, Java, RestAssured, Cucumber, Protractor, TestNG
+- 🧩 **Software Testing**: Functional, Integration, Acceptance tests on web applications, RESTful APIs, and mobile applications
+- 🤝 **Agile Development**: Collaborating with developers to identify and resolve defects early in the development cycle
 
-## Projects
+## 🚀 Projects
 
 This repository showcases my work in various areas including:
 - **Automation Frameworks**: Sample projects using Selenium, RestAssured, and other tools.
 - **Test Scripts**: Demonstrations of automated test cases for web and mobile applications.
 - **Open Source Contributions**: Contributions to various open-source projects.
 
-## Skills
+## 💡 Skills
 
 - **Programming Languages**: Java, Python, JavaScript
 - **Tools & Technologies**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Docker
 - **Soft Skills**: Problem-solving, Team Collaboration, Agile Methodologies
 
-## Hobbies
+## 🎨 Hobbies
 
-- Photography
-- Framework Designing
-- Traveling
+- 📸 Photography
+- 🛠️ Framework Designing
+- 🌍 Traveling
 
-## Get in Touch
+## 📫 Get in Touch
 
 - **Email**: [Lavendra.rajputc1@gmail.com](mailto:Lavendra.rajputc1@gmail.com)
 - **LinkedIn**: [Lavendra Kumar Rajput](https://linkedin.com/in/lavendra-kumar-rajput-112ab2106)
 - **Portfolio**: [lkumarra.github.io](https://lkumarra.github.io)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Lavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=compact&theme=radical)
 
-## Repository Overview
+## 📂 Repository Overview
 
 This repository contains:
 - Sample projects and scripts showcasing my expertise
 - Contributions to open-source projects
 - Documentation and resources related to my work
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
 
 Feel free to explore and reach out if you have any questions or collaboration ideas!
