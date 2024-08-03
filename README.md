@@ -26,6 +26,23 @@ This repository showcases my work in various areas including:
 - **Tools & Technologies**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Docker
 - **Soft Skills**: Problem-solving, Team Collaboration, Agile Methodologies
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/RestAssured-FF6F00?style=flat&logo=java&logoColor=white" alt="RestAssured" />
+  <img src="https://img.shields.io/badge/Cucumber-00D300?style=flat&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/Protractor-EF3D59?style=flat&logo=angular&logoColor=white" alt="Protractor" />
+  <img src="https://img.shields.io/badge/TestNG-EF6C00?style=flat&logo=testng&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Maven-C71A3A?style=flat&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 ## 🎨 Hobbies
 
 - 📸 Photography
@@ -43,6 +60,18 @@ This repository showcases my work in various areas including:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&theme=radical" alt="Lavendra's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lkumarra&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lkumarra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 📂 Repository Overview
