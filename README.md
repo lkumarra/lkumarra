@@ -82,12 +82,6 @@ This repository showcases my work in various areas including:
   <img src="https://github-contribution-stats.vercel.app/api?username=lkumarra&include_all_commits=true&count_private=true&theme=radical" alt="Total Contributions" />
 </p>
 
-## 📂 Most Contributed Repository
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=YOUR_REPO_NAME&theme=radical" alt="Most Contributed Repo" />
-</p>
-
 ## 📈 Profile Views
 
 <p align="center">
