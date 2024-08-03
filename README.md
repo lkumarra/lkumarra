@@ -1,7 +1,7 @@
 # 🌟 Lavendra Kumar Rajput's Portfolio 🌟
 
 <p align="center">
-  <img src="path/to/your/image.png" alt="Lavendra Kumar Rajput" />
+  <img src="https://raw.githubusercontent.com/lkumarra/lkumarra/master/lavendra.png" alt="Lavendra Kumar Rajput" />
 </p>
 
 Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
