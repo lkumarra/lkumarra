@@ -1,8 +1,10 @@
 # 🌟 Lavendra Kumar Rajput's Portfolio 🌟
 
-Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
+<p align="center">
+  <img src="path/to/your/image.png" alt="Lavendra Kumar Rajput" />
+</p>
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Lavendra+Kumar+Rajput)
+Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
 
 ## About Me
 
@@ -38,8 +40,10 @@ This repository showcases my work in various areas including:
 
 ## 📊 GitHub Stats
 
-![Lavendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&theme=radical" alt="Lavendra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ## 📂 Repository Overview
 
