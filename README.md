@@ -1,12 +1,16 @@
 # 🌟 Lavendra Kumar Rajput's Portfolio 🌟
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lkumarra/lkumarra/master/lavendra.png" alt="Lavendra Kumar Rajput" />
+  <img src="https://raw.githubusercontent.com/lkumarra/lkumarra/master/lavendra.png" alt="Lavendra Kumar Rajput" width="200" />
 </p>
 
 Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Software Development Engineer in Test (SDET) with extensive experience in test automation, software development, and quality assurance.
 
 ## About Me
+
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="About Me" />
+</p>
 
 I specialize in:
 - 🧪 **Test Automation Frameworks**: Selenium, Java, RestAssured, Cucumber, Protractor, TestNG
@@ -15,12 +19,20 @@ I specialize in:
 
 ## 🚀 Projects
 
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="Projects" />
+</p>
+
 This repository showcases my work in various areas including:
 - **Automation Frameworks**: Sample projects using Selenium, RestAssured, and other tools.
 - **Test Scripts**: Demonstrations of automated test cases for web and mobile applications.
 - **Open Source Contributions**: Contributions to various open-source projects.
 
 ## 💡 Skills
+
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="Skills" />
+</p>
 
 - **Programming Languages**: Java, Python, JavaScript
 - **Tools & Technologies**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Docker
@@ -53,11 +65,19 @@ This repository showcases my work in various areas including:
 
 ## 🎨 Hobbies
 
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="Hobbies" />
+</p>
+
 - 📸 Photography
 - 🛠️ Framework Designing
 - 🌍 Traveling
 
 ## 📫 Get in Touch
+
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="Contact" />
+</p>
 
 - **Email**: [Lavendra.rajputc1@gmail.com](mailto:Lavendra.rajputc1@gmail.com)
 - **LinkedIn**: [Lavendra Kumar Rajput](https://linkedin.com/in/lavendra-kumar-rajput-112ab2106)
@@ -89,6 +109,10 @@ This repository showcases my work in various areas including:
 </p>
 
 ## 📂 Repository Overview
+
+<p align="center">
+  <img src="https://via.placeholder.com/100" alt="Repository" />
+</p>
 
 This repository contains:
 - Sample projects and scripts showcasing my expertise
