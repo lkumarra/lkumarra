@@ -60,9 +60,6 @@ This repository showcases my work in various areas including:
 
 ## 📫 Get in Touch
 
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Contact" />
-</p>
 
 - **Email**: [Lavendra.rajputc1@gmail.com](mailto:Lavendra.rajputc1@gmail.com)
 - **LinkedIn**: [Lavendra Kumar Rajput](https://linkedin.com/in/lavendra-kumar-rajput-112ab2106)
