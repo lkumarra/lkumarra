@@ -8,9 +8,6 @@ Welcome to my portfolio repository! I am Lavendra Kumar Rajput, a passionate Sof
 
 ## About Me
 
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="About Me" />
-</p>
 
 I specialize in:
 - 🧪 **Test Automation Frameworks**: Selenium, Java, RestAssured, Cucumber, Protractor, TestNG
@@ -19,20 +16,12 @@ I specialize in:
 
 ## 🚀 Projects
 
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Projects" />
-</p>
-
 This repository showcases my work in various areas including:
 - **Automation Frameworks**: Sample projects using Selenium, RestAssured, and other tools.
 - **Test Scripts**: Demonstrations of automated test cases for web and mobile applications.
 - **Open Source Contributions**: Contributions to various open-source projects.
 
 ## 💡 Skills
-
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Skills" />
-</p>
 
 - **Programming Languages**: Java, Python, JavaScript
 - **Tools & Technologies**: Selenium WebDriver, TestNG, Maven, Jenkins, Git, Docker
@@ -64,10 +53,6 @@ This repository showcases my work in various areas including:
 </p>
 
 ## 🎨 Hobbies
-
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Hobbies" />
-</p>
 
 - 📸 Photography
 - 🛠️ Framework Designing
@@ -110,9 +95,6 @@ This repository showcases my work in various areas including:
 
 ## 📂 Repository Overview
 
-<p align="center">
-  <img src="https://via.placeholder.com/100" alt="Repository" />
-</p>
 
 This repository contains:
 - Sample projects and scripts showcasing my expertise
