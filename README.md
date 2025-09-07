@@ -33,7 +33,7 @@
 
 | 💻 Languages | 🧪 Testing Tools | ⚙️ DevOps & Build | 🌐 Versioning & Others |
 |--------------|------------------|------------------|------------------------|
-| Java, Python, JS | Selenium, RestAssured, TestNG, Cucumber, Protractor | Maven, Jenkins, Docker | Git, MongoDB, Postman, JIRA |
+| Java, Python, JS, TS | Selenium, Playwright, RestAssured, TestNG, Cucumber, Protractor | Maven, Jenkins, Docker | Git, MongoDB, Postman, JIRA |
 
 ---
 
