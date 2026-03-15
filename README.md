@@ -375,7 +375,7 @@ Comprehensive API test framework for library management system with CRUD validat
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img width="98%" src="https://github-trophies.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </a>
 
 </div>
@@ -446,8 +446,9 @@ Comprehensive API test framework for library management system with CRUD validat
 
 <br/><br/>
 
-<!-- GitHub Contribution Stats -->
-<img src="https://github-contributor-stats.vercel.app/api?username=lkumarra&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+<!-- GitHub Stats Summary -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkumarra&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkumarra&theme=github_dark" />
 
 </div>
 
@@ -470,7 +471,42 @@ Comprehensive API test framework for library management system with CRUD validat
   <img alt="github-snake" src="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> 💡 *Set up [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate the snake animation from your contribution graph!*
+> 💡 *To enable the snake animation, add the GitHub Action workflow below to `.github/workflows/snake.yml` in your profile repo and run it once:*
+
+<details>
+<summary><b>📋 Snake Animation Setup (Click to expand)</b></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 </div>
 
