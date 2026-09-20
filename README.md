@@ -22,10 +22,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════ -->
-<!--             ABOUT                      -->
-<!-- ═══════════════════════════════════════ -->
-
 <table align="center">
 <tr>
 <td>
@@ -48,28 +44,20 @@
 
 <div align="center">
 
-<a href="https://github.com/lkumarra">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lkumarra&show_icons=true&hide_border=true&bg_color=00000000&title_color=6e40c9&icon_color=00d4ff&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true&custom_title=Stats" />
-</a>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkumarra&theme=transparent" />
 <a href="https://github.com/lkumarra">
   <img width="49%" src="https://streak-stats.demolab.com?user=lkumarra&hide_border=true&background=00000000&stroke=30363d&ring=6e40c9&fire=00d4ff&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/lkumarra">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkumarra&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6e40c9&text_color=8b949e&langs_count=8&custom_title=Languages" />
-</a>
-<a href="https://github.com/lkumarra">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkumarra&theme=transparent" />
-</a>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkumarra&theme=transparent" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkumarra&theme=transparent" />
 
 <br/><br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkumarra&theme=transparent" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkumarra&theme=transparent" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkumarra&theme=transparent&utcOffset=5.5" />
-
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkumarra&theme=transparent" />
+<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkumarra&theme=transparent&utcOffset=5.5" />
 
 </div>
 
@@ -100,8 +88,6 @@
 </div>
 
 <br/>
-
-<!-- Tech details as cards outside of div align center so details works -->
 
 <h4 align="center">Languages & Backend</h4>
 
@@ -298,97 +284,48 @@
 <h2>Featured Projects</h2>
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/lkumarra/Selenium_Framework">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=Selenium_Framework&hide_border=true&bg_color=00000000&title_color=6e40c9&icon_color=00d4ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/lkumarra/playwright-automation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=playwright-automation&hide_border=true&bg_color=00000000&title_color=6e40c9&icon_color=00d4ff&text_color=8b949e" />
-</a>
+**[🔧 Selenium Framework](https://github.com/lkumarra/Selenium_Framework)**
 
-<br/>
+Robust Selenium + Java + TestNG automation framework with POM, data-driven tests, parallel execution, and Allure reporting.
 
-<a href="https://github.com/lkumarra/library-api-test-framework">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=library-api-test-framework&hide_border=true&bg_color=00000000&title_color=6e40c9&icon_color=00d4ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/lkumarra/library-management-test">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=library-management-test&hide_border=true&bg_color=00000000&title_color=6e40c9&icon_color=00d4ff&text_color=8b949e" />
-</a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+**[🎭 Playwright Automation](https://github.com/lkumarra/playwright-automation)**
 
-<details>
-<summary><strong>Selenium Framework — Deep Dive</strong></summary>
-<br/>
+Modern E2E automation with Playwright + TypeScript. Cross-browser testing, tracing, video recording, and GitHub Actions CI.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-A robust Selenium-based test automation framework built with Java and TestNG focused on reliability and maintainability.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Page Object Model for separation of concerns
-- Data-driven tests using external CSV/JSON/Excel
-- Parallel execution via TestNG and Maven
-- HTML/Allure test reporting and logs
-- CI-friendly: designed to run on Jenkins/GitHub Actions
+**[📡 Library API Test Framework](https://github.com/lkumarra/library-api-test-framework)**
 
-```bash
-git clone https://github.com/lkumarra/Selenium_Framework.git
-cd Selenium_Framework && mvn clean test -Dtestng.dtd.http=true
-```
+Comprehensive API test framework for library management with CRUD validations, schema testing, and modular architecture.
 
-</details>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/RestAssured-4CAF50?style=flat-square"/>
 
-<details>
-<summary><strong>Playwright Automation — Deep Dive</strong></summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
+**[📚 Library Management Test](https://github.com/lkumarra/library-management-test)**
 
-Modern end-to-end automation using Playwright and TypeScript with cross-browser testing capabilities.
+End-to-end test suite for library management system covering UI and API layers with data-driven testing.
 
-- Cross-browser tests (Chromium, Firefox, WebKit)
-- Parallel and headless execution
-- Page model patterns and utilities for reusability
-- Built-in test tracing and video recording
-- CI integration with GitHub Actions
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 
-```bash
-git clone https://github.com/lkumarra/playwright-automation.git
-cd playwright-automation && npm ci && npm test
-```
-
-</details>
-
-<details>
-<summary><strong>Library API Test Framework — Deep Dive</strong></summary>
-<br/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/RestAssured-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
-</p>
-
-Comprehensive API test framework for library management system with CRUD validations and contract testing.
-
-- CRUD API validations
-- Schema & contract tests
-- Test data management
-- Modular and reusable test architecture
-
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -409,7 +346,6 @@ Comprehensive API test framework for library management system with CRUD validat
 </div>
 
 <br/>
-
 
 <!-- ═══════════════════════════════════════ -->
 <!--           CURRENT FOCUS                -->
