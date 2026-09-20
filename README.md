@@ -70,11 +70,6 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkumarra&theme=transparent" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkumarra&theme=transparent&utcOffset=5.5" />
 
-<br/><br/>
-
-<a href="https://github.com/lkumarra">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lkumarra&bg_color=00000000&color=8b949e&line=6e40c9&point=00d4ff&area_color=1a0536&area=true&hide_border=true" />
-</a>
 
 </div>
 
@@ -408,32 +403,13 @@ Comprehensive API test framework for library management system with CRUD validat
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img width="98%" src="https://github-trophies.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════ -->
-<!--        CONTRIBUTION SNAKE              -->
-<!-- ═══════════════════════════════════════ -->
-
-<div align="center">
-<h2>Contributions</h2>
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════ -->
 <!--           CURRENT FOCUS                -->
