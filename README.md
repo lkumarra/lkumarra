@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a0a2e,40:1a0536,60:6e40c9,80:00d4ff,100:0d1117&height=220&section=header&text=Lavendra%20Kumar%20Rajput&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20%C2%B7%20Automation%20Architect%20%C2%B7%20AI%20%2B%20QA%20Pioneer&descSize=16&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0a0a2e,40:1a0536,60:6e40c9,80:00d4ff,100:0d1117&height=220&section=header&fontAlign=50&fontAlignY=35&text=Lavendra%20Kumar%20Rajput&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20SDET%20%C2%B7%20Automation%20Architect%20%C2%B7%20AI%20%2B%20QA%20Pioneer&descSize=16&descAlignY=55&descAlign=50"/>
 
 <img width="100%" src="desk-banner.jpg" alt="Developer Workspace" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Building+Autonomous+Test+Intelligence+Systems;Quality+Engineering+%E2%80%A2+Agentic+AI+%E2%80%A2+Cloud-Native+Testing;Crafting+frameworks+that+think+for+themselves" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+Autonomous+Test+Intelligence+Systems;Quality+Engineering+%E2%80%A2+Agentic+AI+%E2%80%A2+Cloud-Native+Testing;Crafting+frameworks+that+think+for+themselves" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>GitHub Analytics</h2>
+<h2><samp>GitHub Analytics</samp></h2>
 </div>
 
 <div align="center">
@@ -68,7 +68,7 @@
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>Tech Stack</h2>
+<h2><samp>Tech Stack</samp></h2>
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@
 
 <br/>
 
-<h4 align="center">Languages & Backend</h4>
+<h4 align="center"><samp>Languages & Backend</samp></h4>
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 </div>
 
-<h4 align="center">Automation & Testing</h4>
+<h4 align="center"><samp>Automation & Testing</samp></h4>
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 </div>
 
-<h4 align="center">DevOps & Cloud</h4>
+<h4 align="center"><samp>DevOps & Cloud</samp></h4>
 
 <div align="center">
 
@@ -134,7 +134,7 @@
 
 </div>
 
-<h4 align="center">Databases & Monitoring</h4>
+<h4 align="center"><samp>Databases & Monitoring</samp></h4>
 
 <div align="center">
 
@@ -156,7 +156,7 @@
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>Expertise</h2>
+<h2><samp>Expertise</samp></h2>
 </div>
 
 <table align="center">
@@ -229,7 +229,7 @@
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>AI & Intelligent Automation</h2>
+<h2><samp>AI & Intelligent Automation</samp></h2>
 </div>
 
 <div align="center">
@@ -281,7 +281,7 @@
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>Featured Projects</h2>
+<h2><samp>Featured Projects</samp></h2>
 </div>
 
 <table align="center">
@@ -334,7 +334,7 @@ End-to-end test suite for library management system covering UI and API layers w
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>Achievements</h2>
+<h2><samp>Achievements</samp></h2>
 </div>
 
 <div align="center">
@@ -352,7 +352,7 @@ End-to-end test suite for library management system covering UI and API layers w
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-<h2>What I'm Up To</h2>
+<h2><samp>What I'm Up To</samp></h2>
 </div>
 
 <table align="center">
