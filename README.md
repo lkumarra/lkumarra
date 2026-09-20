@@ -4,21 +4,13 @@
 
 <div align="center">
 
-<!-- ─────────────── ANIMATED HEADER BANNER ─────────────── -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:0a0a2e,30:1a0536,50:6e40c9,70:00d4ff,90:238636,100:0d1117&height=250&section=header&text=LAVENDRA%20KUMAR%20RAJPUT&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=%E2%9A%A1%20Neural%20Interface%20Active%20%7C%20AI-Augmented%20Developer%20Dashboard%20v4.0&descSize=15&descAlignY=52&descAlign=50"/>
-
-<!-- ─────────────── PROFILE PHOTO ─────────────── -->
-
-<img width="180" src="profile-photo.jpg" alt="Lavendra Kumar Rajput" style="border-radius: 50%;" />
-
-<br/><br/>
 
 <!-- ─────────────── HERO BANNER ─────────────── -->
 
-<img width="100%" src="desk-banner.jpg" alt="Developer Workspace — Better Systems, Brighter Stories" style="border-radius: 10px;" />
+<img width="100%" src="desk-banner.jpg" alt="Developer Workspace — Better Systems, Brighter Stories" />
 
-<br/><br/>
+<br/>
 
 <!-- ─────────────── TYPING ANIMATION ─────────────── -->
 
@@ -57,18 +49,21 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 SECTION: DEVELOPER DASHBOARD                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <samp>&nbsp;COMMAND CENTER</samp>
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 SECTION: COMMAND CENTER                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%9A%A1_COMMAND_CENTER-0d1117?style=for-the-badge&labelColor=6e40c9&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <!-- Row 1: GitHub Stats + Streak -->
 <a href="https://github.com/lkumarra">
@@ -104,18 +99,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ SECTION: TECH STACK                                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-  <samp>&nbsp;TECH NEURAL NETWORK</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%A7_TECH_NEURAL_NETWORK-0d1117?style=for-the-badge&labelColor=00d4ff&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,python,nodejs,selenium,playwright&theme=dark&perline=8" />
@@ -152,13 +148,13 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logo=gatling&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gatling-FF9E2A?style=for-the-badge&logoColor=white"/>
 </details>
 
 <details>
@@ -201,18 +197,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎯 SECTION: AUTOMATION EXPERTISE                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <samp>&nbsp;SKILL SYNAPSE MAP</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_SKILL_SYNAPSE_MAP-0d1117?style=for-the-badge&labelColor=238636&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -220,44 +217,28 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/UI_Automation-95%25-00d4ff?style=flat-square&labelColor=0d1117&logo=selenium&logoColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/API_Automation-95%25-00d4ff?style=flat-square&labelColor=0d1117&logo=postman&logoColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/Framework_Design-95%25-00d4ff?style=flat-square&labelColor=0d1117&logo=blueprint&logoColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/CI/CD_Integration-90%25-6e40c9?style=flat-square&labelColor=0d1117&logo=githubactions&logoColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/Performance_Testing-85%25-6e40c9?style=flat-square&labelColor=0d1117&logo=k6&logoColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/Cloud_Testing-85%25-6e40c9?style=flat-square&labelColor=0d1117&logo=amazonaws&logoColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/Mobile_Testing-75%25-238636?style=flat-square&labelColor=0d1117&logo=android&logoColor=238636"/>
-<br/>
-<img src="https://img.shields.io/badge/Security_Testing-70%25-238636?style=flat-square&labelColor=0d1117&logo=owasp&logoColor=238636"/>
+<img src="https://img.shields.io/badge/UI_Automation-Expert_95%25-00d4ff?style=for-the-badge&labelColor=0d1117&logo=selenium&logoColor=00d4ff"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/API_Automation-Expert_95%25-00d4ff?style=for-the-badge&labelColor=0d1117&logo=postman&logoColor=00d4ff"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Framework_Design-Expert_95%25-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CI%2FCD_Integration-Advanced_90%25-6e40c9?style=for-the-badge&labelColor=0d1117&logo=githubactions&logoColor=6e40c9"/>
 
 <br/><br/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-UI_Auto_95%25-00d4ff?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-API_Auto_95%25-00d4ff?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-Framework_95%25-00d4ff?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░-CI/CD_90%25-6e40c9?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-Perf_85%25-6e40c9?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-Cloud_85%25-6e40c9?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░-Mobile_75%25-238636?style=flat-square&labelColor=0d1117"/>
-<br/>
-<img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-Security_70%25-238636?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Performance_Testing-Advanced_85%25-6e40c9?style=for-the-badge&labelColor=0d1117&logo=k6&logoColor=6e40c9"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Cloud_Testing-Advanced_85%25-6e40c9?style=for-the-badge&labelColor=0d1117&logo=amazonaws&logoColor=6e40c9"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Mobile_Testing-Proficient_75%25-238636?style=for-the-badge&labelColor=0d1117&logo=android&logoColor=238636"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Security_Testing-Proficient_70%25-238636?style=for-the-badge&labelColor=0d1117&logo=owasp&logoColor=238636"/>
 
 <br/><br/>
 
@@ -267,18 +248,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🤖 SECTION: AI & PLATFORM EXPERIENCE                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
-  <samp>&nbsp;AI CORTEX</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0_AI_CORTEX-0d1117?style=for-the-badge&labelColor=6e40c9&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_AI-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -316,18 +298,19 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 SECTION: FEATURED PROJECTS                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
-  <samp>&nbsp;PROJECT NODES</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_PROJECT_NODES-0d1117?style=for-the-badge&labelColor=00d4ff&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <a href="https://github.com/lkumarra/Selenium_Framework">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=lkumarra&repo=Selenium_Framework&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&text_color=c9d1d9" />
@@ -357,7 +340,7 @@
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 </div>
@@ -412,9 +395,9 @@ cd playwright-automation && npm ci && npm test
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/RestAssured-4CAF50?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -428,37 +411,39 @@ Comprehensive API test framework for library management system with CRUD validat
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 SECTION: ACHIEVEMENTS                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30">
-  <samp>&nbsp;ACHIEVEMENT VAULT</samp>
-</h2>
-
 <div align="center">
 
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_ACHIEVEMENT_VAULT-0d1117?style=for-the-badge&labelColor=238636&logoColor=white" height="35"/>
+
+<br/><br/>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="98%" src="https://github-trophies.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=lkumarra&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 SECTION: CONTRIBUTION SNAKE                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30">
-  <samp>&nbsp;CONTRIBUTION MATRIX</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%90%8D_CONTRIBUTION_MATRIX-0d1117?style=for-the-badge&labelColor=6e40c9&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake-dark.svg" />
@@ -466,22 +451,21 @@ Comprehensive API test framework for library management system with CRUD validat
   <img alt="github-snake" src="https://raw.githubusercontent.com/lkumarra/lkumarra/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-> *To enable the snake animation, add the workflow from `.github/workflows/snake.yml` to your profile repo and run it once.*
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎯 SECTION: CURRENT FOCUS                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  <samp>&nbsp;CURRENT MISSION</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_CURRENT_MISSION-0d1117?style=for-the-badge&labelColor=00d4ff&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -489,40 +473,32 @@ Comprehensive API test framework for library management system with CRUD validat
 
 ### 🔭 Building
 
-<img src="https://img.shields.io/badge/→_AI--powered_test_automation_frameworks-0d1117?style=flat-square&labelColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Cloud--native_testing_infrastructure-0d1117?style=flat-square&labelColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Open--source_QA_tools-0d1117?style=flat-square&labelColor=238636"/>
+- AI-powered test automation frameworks
+- Cloud-native testing infrastructure
+- Open-source QA tools
 
 ### 🌱 Learning
 
-<img src="https://img.shields.io/badge/→_Advanced_AI/ML_in_test_automation-0d1117?style=flat-square&labelColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Kubernetes--native_testing_patterns-0d1117?style=flat-square&labelColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Performance_engineering_at_scale-0d1117?style=flat-square&labelColor=238636"/>
+- Advanced AI/ML in test automation
+- Kubernetes-native testing patterns
+- Performance engineering at scale
 
 </td>
 <td width="50%" valign="top">
 
 ### 👯 Open for Collaboration
 
-<img src="https://img.shields.io/badge/→_Test_automation_framework_dev-0d1117?style=flat-square&labelColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Open--source_QA_tooling-0d1117?style=flat-square&labelColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/→_AI--driven_quality_engineering-0d1117?style=flat-square&labelColor=238636"/>
+- Test automation framework development
+- Open-source QA tooling
+- AI-driven quality engineering projects
 
 ### 💬 Ask Me About
 
-<img src="https://img.shields.io/badge/→_Test_automation_architecture-0d1117?style=flat-square&labelColor=00d4ff"/>
-<br/>
-<img src="https://img.shields.io/badge/→_Selenium,_Playwright,_RestAssured-0d1117?style=flat-square&labelColor=6e40c9"/>
-<br/>
-<img src="https://img.shields.io/badge/→_CI/CD_&_API_testing-0d1117?style=flat-square&labelColor=238636"/>
-<br/>
-<img src="https://img.shields.io/badge/→_AI_+_QA_integration_patterns-0d1117?style=flat-square&labelColor=00d4ff"/>
+- Test automation architecture & strategy
+- Selenium, Playwright, RestAssured
+- CI/CD pipeline optimization
+- API testing best practices
+- AI + QA integration patterns
 
 </td>
 </tr>
@@ -530,18 +506,19 @@ Comprehensive API test framework for library management system with CRUD validat
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 📫 SECTION: CONNECT                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
-  <samp>&nbsp;ESTABLISH CONNECTION</samp>
-</h2>
-
 <div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%93%A1_ESTABLISH_CONNECTION-0d1117?style=for-the-badge&labelColor=238636&logoColor=white" height="35"/>
+
+<br/><br/>
 
 <a href="mailto:lavendra.rajputc1@gmail.com">
   <img height="40" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -561,7 +538,7 @@ Comprehensive API test framework for library management system with CRUD validat
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 💬 SECTION: FOOTER                                                            -->
